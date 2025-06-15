@@ -1,5 +1,5 @@
 # ☕ Coffee Machine Ordering System
-**Tools**: Power Apps (Canvas), Power Automate, SharePoint, Power BI, Dataverse
+**Tools**: Power Apps (Canvas), Power Automate, SharePoint, Power BI, Dataverse  
 **Duration**: 2 weeks  
 **Impact**: Reduced approval times by 40%  
 
@@ -16,6 +16,4 @@ https://youtu.be/8ybRFSrq3eM
 4. Power BI tracks procurement metrics.
 
 ## 📸 Screenshots
-| App Interface | Approval Flow |
-|--------------|--------------|
-|screenshots/Coffee Machine Ordering Power Platform App (2).pdf) |
+screenshots/Coffee Machine Ordering Power Platform App (2).pdf) 
